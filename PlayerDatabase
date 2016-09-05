@@ -2,8 +2,6 @@ import * data from FootballDatabase
 
 public class PlayerDatabase
 {
-  
-  playerNumber
-  playerPosition
+  Player player = new Player( );
   
 }
