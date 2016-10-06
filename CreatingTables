@@ -1,0 +1,172 @@
+select @@version as 'sql server version'
+
+CREATE TABLE Arsenal
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Bournemouth
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Burnley
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Chelsea
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Everton
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Hull
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Leicester
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Liverpool
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Manchester_City
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Manchester_United
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Middlesbrough
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Southampton
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Stoke_City
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Sunderland
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Swansea_City
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Tottenham_Hotspur
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE Watford
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE West_Bromwich_Albion
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
+
+CREATE TABLE West_Ham_United
+(
+ID int,
+# int,
+Player_Name varchar(255),
+Position nvarchar(2),
+Age int
+);
