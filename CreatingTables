@@ -170,3 +170,16 @@ Player_Name varchar(255),
 Position nvarchar(2),
 Age int
 );
+
+//Before continuing this code you need to save your Access Database as an SSIS Package
+
+/*Code returns the following result when run in Rextester's online compiler
+
+Execution time: 0,03 sec, rows selected: 1, rows affected: 0, absolute service time: 0,2 sec
+
+  	sql server version
+1	Microsoft SQL Server 2014 - 12.0.2000.8 (Intel X86) 
+	Feb 20 2014 19:20:46 
+	Copyright (c) Microsoft Corporation
+	Express Edition on Windows NT 6.3 <X64> (Build 9600: ) (WOW64) (Hypervisor)
+*/
