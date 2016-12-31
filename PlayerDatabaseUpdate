@@ -1,0 +1,59 @@
+LOAD DATA INFILE '/Joseph/Documents/Arsenal.csv' INTO TABLE Arsenal
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Bournemouth.csv' INTO TABLE Bournemouth
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Burnley.csv' INTO TABLE Burnley
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Chelsea.csv' INTO TABLE Chelsea
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Crystal Palace.csv' INTO TABLE Crystal_Palace
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Everton.csv' INTO TABLE Everton
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Hull.csv' INTO TABLE Hull_City
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Leicester.csv' INTO TABLE Leicester
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Liverpool.csv' INTO TABLE Liverpool
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Manchester_City.csv' INTO TABLE Manchester_City
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Manchester_United.csv' INTO TABLE Manchester_United
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Middlesbrough.csv' INTO TABLE Middlesbrough
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Southampton.csv' INTO TABLE Southampton
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Stoke.csv' INTO TABLE Stoke
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Sunderland.csv' INTO TABLE Sunderland
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Swansea.csv' INTO TABLE Swansea
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Tottenham.csv' INTO TABLE Tottenham
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/Watford.csv' INTO TABLE Watford
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/West Brom.csv' INTO TABLE West_Brom
+FIELDS TERMINATED BY ';';
+
+LOAD DATA INFILE '/Joseph/Documents/West Ham.csv' INTO TABLE West_Ham
+FIELDS TERMINATED BY ';';
